@@ -1,0 +1,44 @@
+body {
+    background-color: #F2CEDA;
+    ;
+}
+
+.containe {
+    width: 1125px;
+    height: 79px;
+    top: 10px;
+    left: 245px;
+
+}
+
+header {
+    width: 1000px;
+    height: 100px;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+ul {
+    width: 701px;
+    height: 18px;
+    left: 250px;
+    position: absolute;
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    cursor: pointer;
+    transition: 8s;
+
+}
+
+img {
+    width: 894.68px;
+    height: 742.36px;
+    top: 178px;
+    left: 662px;
+
+}
